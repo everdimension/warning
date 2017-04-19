@@ -1,4 +1,6 @@
 # Warning [![npm version](https://badge.fury.io/js/warning.svg)](https://badge.fury.io/js/warning)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/BerkeleyTrue/warning.svg)](https://greenkeeper.io/)
 A mirror of Facebook's Warning
 
 
